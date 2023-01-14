@@ -13,7 +13,7 @@
       "assignTo": "rafat"
     },
     {
-      "id": "6",
+      "id": "3",
       "title": "create api",
       "description": "api creation ",
       "assignTo": "azrin"
@@ -23,6 +23,24 @@
       "title": "tma",
       "description": "tma",
       "assignTo": "azrin"
+    },
+    {
+      "id": "5",
+      "title": "writing notes",
+      "description": "write report of task manager app",
+      "assignTo": "shehtaz"
+    },
+    {
+      "id": "6",
+      "title": "draw diagram",
+      "description": "draw flowchart list",
+      "assignTo": "Ahnaf"
+    },
+    {
+      "id": "7",
+      "title": "manage app",
+      "description": "app management for build new ideas",
+      "assignTo": "Arosh"
     }
   ],
   "members": [
@@ -30,6 +48,31 @@
       "id": "1",
       "name": "rafat",
       "email": "rafat@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "rohan",
+      "email": "rohan@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "shehtaz",
+      "email": "shehtaz@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Arosh",
+      "email": "arosh@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Ahnaf",
+      "email": "ahnaf@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "rafi",
+      "email": "rafi@gmail.com"
     }
   ]
 }
