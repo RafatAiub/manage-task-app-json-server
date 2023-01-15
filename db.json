@@ -1,78 +1,55 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "title": "module Design",
-      "description": "Please try to significantly design",
+      "id": "id1673771633924",
+      "title": "react js app",
+      "description": "task management system",
       "assignTo": "rafat"
     },
     {
-      "id": "2",
-      "title": "codeing",
-      "description": "write code",
-      "assignTo": "rafat"
+      "id": "id1673781813709",
+      "title": "code",
+      "description": "cpp code ",
+      "assignTo": "rafi"
     },
     {
-      "id": "3",
-      "title": "create api",
-      "description": "api creation ",
-      "assignTo": "azrin"
-    },
-    {
-      "id": "4",
-      "title": "tma",
-      "description": "tma",
-      "assignTo": "azrin"
-    },
-    {
-      "id": "5",
-      "title": "writing notes",
-      "description": "write report of task manager app",
-      "assignTo": "shehtaz"
-    },
-    {
-      "id": "6",
-      "title": "draw diagram",
-      "description": "draw flowchart list",
-      "assignTo": "Ahnaf"
-    },
-    {
-      "id": "7",
-      "title": "manage app",
-      "description": "app management for build new ideas",
-      "assignTo": "Arosh"
+      "id": "id1673781907933",
+      "title": "management website ",
+      "description": "api design",
+      "assignTo": "rafi"
     }
   ],
   "members": [
     {
-      "id": "1",
+      "id": "id1673771570541",
       "name": "rafat",
       "email": "rafat@gmail.com"
     },
     {
-      "id": "2",
+      "id": "id1673780146322",
+      "name": "rafi",
+      "email": "rafi@gmail.com"
+    },
+    {
+      "id": "id1673780286657",
       "name": "rohan",
       "email": "rohan@gmail.com"
     },
     {
-      "id": "3",
-      "name": "shehtaz",
-      "email": "shehtaz@gmail.com"
+      "id": "id1673781847669",
+      "name": "robin",
+      "email": "robin@gmail.com"
     },
     {
-      "id": "4",
-      "name": "Arosh",
-      "email": "arosh@gmail.com"
-    },
+      "id": "id1673781876877",
+      "name": "habib",
+      "email": "habib@gmail.com"
+    }
+  ],
+  "users": [
     {
-      "id": "5",
-      "name": "Ahnaf",
-      "email": "ahnaf@gmail.com"
-    },
-    {
-      "id": "6",
-      "name": "rafi",
-      "email": "rafi@gmail.com"
+      "username": "admin",
+      "password": "123"
     }
   ]
 }
