@@ -4,11 +4,14 @@
   "description": "task manager app",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 3006 -w db.json"
+    "dev": "node index.js",
+    "start": " node index.js",
+    "watch": "json-server -p 3006 -w db.json"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "clone": "^2.1.2",
     "axios": "^1.2.2",
     "cors": "^2.8.5",
     "json-server": "^0.17.1"
