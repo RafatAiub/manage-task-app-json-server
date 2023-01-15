@@ -2,7 +2,7 @@
   "name": "json-server-task-manager",
   "version": "1.0.0",
   "description": "task manager app",
-  "main": "index.js)",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
